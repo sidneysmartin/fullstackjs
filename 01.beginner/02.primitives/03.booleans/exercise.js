@@ -6,9 +6,9 @@
 
 const isJsProgrammingLanguage = true;
 const isJsHard = false;
-const favNumb = undefined;
+const favNumb = 9;
 
 // 5. Finally log all variables to the console.
-console.log(isJsProgrammingLanguage);
-console.log(isJsHard);
-console.log(favNumb);
+console.log(isJsProgrammingLanguage); // true
+console.log(isJsHard); // false
+console.log(favNumb + undefined); // NaN
