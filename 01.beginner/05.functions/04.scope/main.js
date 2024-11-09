@@ -17,3 +17,9 @@ function showMessage() {
 }
 // console.log(textGreet); // is not defined
 showMessage();
+
+// block
+for (let i = 0; i < 10; i++) {
+  console.log(i); // block scope - local
+}
+// console.log(i); // is not defined
