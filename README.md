@@ -5,8 +5,8 @@
 
 ### Topics
 
-- BEGINNERS
-- INTERMEDIATE
+- [BEGINNERS](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=901)
+- [INTERMEDIATE](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=15963)
 - DOM
 - GSAP
 - ADVANCE
