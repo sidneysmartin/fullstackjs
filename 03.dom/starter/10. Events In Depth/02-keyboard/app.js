@@ -1,5 +1,11 @@
 // https://www.w3schools.com/jsref/obj_keyboardevent.asp
 
+// Keyboard Events
+
+// onkeydown	A user presses a key
+// onkeypress	A user presses a key
+// onkeyup	A user releases a key
+
 const input = document.querySelector("input");
 
 // input.addEventListener("keypress", function () {
@@ -18,8 +24,7 @@ const input = document.querySelector("input");
 input.addEventListener("keypress", (e) => {
   console.log(e.charCode);
   console.log(e.code);
-  console.log(e.ctrlKey); // hit ctr + q
+  console.log(e.ctrlKey);
   console.log(e.key);
-  console.log(e.shiftKey); // shift + t
+  console.log(e.shiftKey);
 });
-
