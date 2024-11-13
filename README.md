@@ -7,7 +7,7 @@
 
 - [BEGINNERS](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=901)
 - [INTERMEDIATE](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=15963)
-- DOM
+- [DOM](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=27978)
 - GSAP
 - ADVANCE
 - REACT.JS
