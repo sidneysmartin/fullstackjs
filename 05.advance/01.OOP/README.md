@@ -53,3 +53,7 @@ function myFunction() {
 [Constructor function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions?form=MG0AV3)
 
 > Built-in constructors, also known as native constructors, are standard constructors provided by JavaScript that allow you to create objects of various data types. These constructors are available globally and do not need to be explicitly defined. They provide a convenient way to create instances of primitive data types and built-in objects.
+
+> The Object.Create() method creates a new object, using an existing object as the prototype of the newly created object.
+
+> Every javascript object has a anonymous property called prototype.Remember functions & arrays are also a object, that prototype will be the parent of that object, prototype property is object by itself, which have some special properties & methods. Every object is associated with another object. The object (a) is associated with [[Prototype]] Object -> which means a object will inherit all properties of Object.prototype || [[Prototype]] [documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
