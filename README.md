@@ -8,7 +8,7 @@
 - [BEGINNERS](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=901)
 - [INTERMEDIATE](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=15963)
 - [DOM](https://youtu.be/H3XIJYEPdus?t=27986)
-- GSAP
+- [GSAP](https://youtu.be/H3XIJYEPdus?t=38103)
 - ADVANCE
 - REACT.JS
 - NODE.JS
