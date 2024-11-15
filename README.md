@@ -9,9 +9,14 @@
 - [INTERMEDIATE](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=15963)
 - [DOM](https://youtu.be/H3XIJYEPdus?t=27986)
 - [GSAP](https://youtu.be/H3XIJYEPdus?t=38103)
-- ADVANCE
-- REACT.JS
+- [ADVANCE](https://youtu.be/H3XIJYEPdus?t=41762)
 - NODE.JS
+- REACT.JS
 - EXPRESS.JS
-- MONGODB
+- SQL
+  - POSTGRESQL
+  - MYSQL
+- NoSQL
+  - MONGODB
 - MONGOOSE
+- TESTING
