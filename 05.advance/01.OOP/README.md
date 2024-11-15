@@ -51,3 +51,5 @@ function myFunction() {
 > Constructor functions in JavaScript are regular functions used with the new keyword to create and initialize objects with shared properties and methods. They act as blueprints for creating multiple instances of objects with the same structure and behavior.
 
 [Constructor function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions?form=MG0AV3)
+
+> Built-in constructors, also known as native constructors, are standard constructors provided by JavaScript that allow you to create objects of various data types. These constructors are available globally and do not need to be explicitly defined. They provide a convenient way to create instances of primitive data types and built-in objects.
