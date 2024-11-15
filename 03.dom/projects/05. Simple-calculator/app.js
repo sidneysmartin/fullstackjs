@@ -9,16 +9,20 @@ document.getElementById("btn").addEventListener("click", () => {
 
   switch (operator) {
     case "plus":
-      result.innerHTML = Number(num1) + Number(num2);
+      // result.innerHTML = Number(num1) + Number(num2);
+      result.innerHTML = +num1 + +num2;
       break;
     case "min":
-      result.innerHTML = Number(num1) - Number(num2);
+      // result.innerHTML = Number(num1) - Number(num2);
+      result.innerHTML = +num1 - +num2;
       break;
     case "dev":
-      result.innerHTML = Number(num1) / Number(num2);
+      // result.innerHTML = Number(num1) / Number(num2);
+      result.innerHTML = +num1 / +num2;
       break;
     case "multi":
-      result.innerHTML = Number(num1) * Number(num2);
+      // result.innerHTML = Number(num1) * Number(num2);
+      result.innerHTML = +num1 * +num2;
       break;
   }
 });
