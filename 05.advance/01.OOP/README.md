@@ -47,3 +47,7 @@ function myFunction() {
 > A factory function is a type of function that is used to create and return objects. It's a design pattern that provides an alternative way to create objects compared to using constructors and the new keyword.
 
 [Factory function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions?form=MG0AV3)
+
+> Constructor functions in JavaScript are regular functions used with the new keyword to create and initialize objects with shared properties and methods. They act as blueprints for creating multiple instances of objects with the same structure and behavior.
+
+[Constructor function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions?form=MG0AV3)
