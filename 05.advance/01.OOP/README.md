@@ -59,3 +59,15 @@ function myFunction() {
 > Every javascript object has a anonymous property called prototype.Remember functions & arrays are also a object, that prototype will be the parent of that object, prototype property is object by itself, which have some special properties & methods. Every object is associated with another object. The object (a) is associated with [[Prototype]] Object -> which means a object will inherit all properties of Object.prototype || [[Prototype]] [documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 
 > Prototypal inheritance is a mechanism in JavaScript that allows objects to inherit properties and methods from other objects. It is a fundamental concept in the language and is based on the prototype model. In prototypal inheritance, objects can serve as prototypes for other objects, forming a hierarchical chain of inheritance. In JavaScript, every object has an internal property called [[Prototype]] (often referred to as **proto**), which points to its prototype object. When you access a property or method on an object, and that property or method is not found in the object itself, JavaScript looks for it in the object's prototype (and further up the prototype chain, if needed) until it finds the property or reaches the top of the prototype chain, which is usually the Object.prototype [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
+
+> [Class modifiers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes), also known as access modifiers or visibility modifiers, are keywords in OOP languages that define the visibility or accessibility of class members (fields, methods, and nested classes) from other parts of the program. They control the level encapsulation and help enforce encapsulation principles by restricting direct access to certain class members. In JavaScript, class modifiers are used in the context of classes and objects, although JavaScript does not traditional access modifiers like some other object-oriented languages (e.g., Java, C++, etc.).However, you can achieve similar effects using different conventions and techniques. [OOP in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+
+# OOP four pillars:
+
+> [Encapsulation](https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation)
+
+> [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction)
+
+> [Inheritance](https://developer.mozilla.org/en-US/docs/Glossary/Inheritance)
+
+> [Polymorphism](https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism)
