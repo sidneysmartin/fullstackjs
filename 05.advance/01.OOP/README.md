@@ -68,6 +68,6 @@ function myFunction() {
 
 > [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction) - Abstraction is the process of simplifying complex systems by breaking them down smaller, manageable parts. It allows you to focus on the essential features of an object and hide unnecessary details. In JavaScript, you can use abstract classes to define abstract structures and then implement them use abstract classes to define abstract structures and them implement them in concrete objects.
 
-> [Inheritance](https://developer.mozilla.org/en-US/docs/Glossary/Inheritance)
+> [Inheritance](https://developer.mozilla.org/en-US/docs/Glossary/Inheritance) - Inheritance allows a class (subclass) to inherit properties and methods from another class (superclass). This enables code reuse and creation of hierarchical relationships between classes. In JavaScript, inheritance can be achieved through prototype-based inheritance (before ES6) or using ES6 classes (with the extends keyword).
 
 > [Polymorphism](https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism)
