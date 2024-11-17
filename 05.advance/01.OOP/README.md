@@ -64,7 +64,7 @@ function myFunction() {
 
 # OOP four pillars:
 
-> [Encapsulation](https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation)
+> [Encapsulation](https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation) - Encapsulation is the concept of bundling data (properties) and methods (functions) together withing an object, allowing the object to control access to its internal data and behavior. This helps to hide implementation details and expose only necessary interfaces to interact with the object. In JavaScript, you can achieve encapsulation by using closures, symbols, or naming conventions to simulate private members and expose public interfaces
 
 > [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction)
 
