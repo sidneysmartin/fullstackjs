@@ -66,7 +66,7 @@ function myFunction() {
 
 > [Encapsulation](https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation) - Encapsulation is the concept of bundling data (properties) and methods (functions) together withing an object, allowing the object to control access to its internal data and behavior. This helps to hide implementation details and expose only necessary interfaces to interact with the object. In JavaScript, you can achieve encapsulation by using closures, symbols, or naming conventions to simulate private members and expose public interfaces
 
-> [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction)
+> [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction) - Abstraction is the process of simplifying complex systems by breaking them down smaller, manageable parts. It allows you to focus on the essential features of an object and hide unnecessary details. In JavaScript, you can use abstract classes to define abstract structures and then implement them use abstract classes to define abstract structures and them implement them in concrete objects.
 
 > [Inheritance](https://developer.mozilla.org/en-US/docs/Glossary/Inheritance)
 
