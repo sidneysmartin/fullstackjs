@@ -70,4 +70,4 @@ function myFunction() {
 
 > [Inheritance](https://developer.mozilla.org/en-US/docs/Glossary/Inheritance) - Inheritance allows a class (subclass) to inherit properties and methods from another class (superclass). This enables code reuse and creation of hierarchical relationships between classes. In JavaScript, inheritance can be achieved through prototype-based inheritance (before ES6) or using ES6 classes (with the extends keyword).
 
-> [Polymorphism](https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism)
+> [Polymorphism](https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism) - Polymorphism allows objects to be treated as instances of their parent even if they are instances of a subclass. This facilitates writing code that works different types of objects in a generic way. In JavaScript, polymorphism is achieved through method overriding, where a subclass provides its own implementation of a method that is already defined in the parent class. The code can the use the same method to work with both parent and subclass instances.
