@@ -5,11 +5,12 @@
 
 ### Topics
 
-- [BEGINNERS](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=901)
-- [INTERMEDIATE](https://youtu.be/H3XIJYEPdus?list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&t=15963)
-- [DOM](https://youtu.be/H3XIJYEPdus?t=27986)
-- [GSAP](https://youtu.be/H3XIJYEPdus?t=38103)
-- [ADVANCE](https://youtu.be/H3XIJYEPdus?t=41762)
+- [BEGINNERS](01.beginner/)
+- [INTERMEDIATE](02.intermediate/)
+- [DOM](03.dom/)
+- [GSAP](04.gsap/)
+- [ADVANCE](05.advance/)
+- [TYPESCRIPT](06.typescript/)
 - NODE.JS
 - REACT.JS
 - EXPRESS.JS
