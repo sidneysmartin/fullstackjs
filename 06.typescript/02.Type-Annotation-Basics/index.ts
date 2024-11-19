@@ -32,3 +32,10 @@ console.log(favMovie);
 // Explicit
 let favMovie2: string = "The Lord of the Rings The Two Towers"; // Explicitly set as string
 console.log(favMovie2);
+
+let color: any = "crimson";
+color = 20;
+color = true;
+color();
+color.toUpperCase();
+console.log(color);
