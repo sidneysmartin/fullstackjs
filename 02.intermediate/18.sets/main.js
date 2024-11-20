@@ -31,12 +31,12 @@ const set = new Set();
 
 set.add();
 set.add("string");
-set.add({ name: "huxn" });
+set.add({ name: "John" });
 set.add(10);
 
 console.log(set.size);
 console.log(set.keys());
-console.log(set.has({ name: "huxn" }));
+console.log(set.has({ name: "John" }));
 
 set.delete(10);
 console.log(set);

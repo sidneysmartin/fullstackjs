@@ -26,7 +26,7 @@ console.log(sum);
 
 const people = [
   {
-    name: "HuXn WebDev",
+    name: "John WebDev",
     age: 18,
   },
   {
@@ -59,5 +59,5 @@ const words = [
 const wordFrequency = words.reduce((frequencyMap, word) => {
   frequencyMap[word] = (frequencyMap[word] || 0) + 1;
   return frequencyMap;
-},{});
+}, {});
 console.log(wordFrequency);

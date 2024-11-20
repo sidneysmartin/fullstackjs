@@ -24,7 +24,7 @@
 //   });
 // }
 
-// getUserDataFromDB("HuXn")
+// getUserDataFromDB("John")
 //   .then((name) => getUserHobbies(name))
 //   .then((hobby) => console.log(hobby))
 //   .catch((err) => console.log(err));
@@ -54,14 +54,14 @@ function getUserHobbies() {
   });
 }
 
-// getUserDataFromDB("HuXn")
+// getUserDataFromDB("John")
 //   .then((name) => getUserHobbies(name))
 //   .then((hobby) => console.log(hobby))
 //   .catch((err) => console.log(err));
 
 async function showUserHobbies() {
   try {
-    const name = await getUserDataFromDB("HuXn");
+    const name = await getUserDataFromDB("John");
     const hobby = await getUserHobbies(name);
     console.log(hobby);
   } catch (error) {

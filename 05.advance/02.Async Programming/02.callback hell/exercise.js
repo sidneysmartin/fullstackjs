@@ -15,7 +15,7 @@
 // ---> hobby as parameter and just log that parameter to the console, run the code and see the result.
 
 // Your code should look something like this 👇
-// getUserDataFromDB("HuXn", (data) => {
+// getUserDataFromDB("John", (data) => {
 //   console.log(data);
 //   getUserHobbies(data, (hobby) => {
 //     console.log(hobby);
@@ -36,7 +36,7 @@ function getUserHobbies(name, callback) {
   }, 2000);
 }
 
-getUserDataFromDB("HuXn", (data) => {
+getUserDataFromDB("John", (data) => {
   console.log(data);
   getUserHobbies(data, (hobby) => {
     console.log(hobby);

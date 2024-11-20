@@ -16,7 +16,7 @@
 //   }, 2000);
 // }
 
-// getUserDataFromDB("HuXn", (data) => {
+// getUserDataFromDB("John", (data) => {
 //   console.log(data);
 //   getUserHobbies(data, (hobby) => {
 //     console.log(hobby);
@@ -47,7 +47,7 @@ function getUserHobbies() {
   });
 }
 
-getUserDataFromDB("HuXn")
+getUserDataFromDB("John")
   .then((name) => getUserHobbies(name))
   .then((hobby) => console.log(hobby))
   .catch((err) => console.log(err));

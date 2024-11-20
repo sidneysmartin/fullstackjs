@@ -1,7 +1,7 @@
 #### TypeScript is a syntactic superset of JavaScript which adds static typing.
 
 - [Tutorial](https://www.youtube.com/watch?v=zeCDuo74uzA)
-- [Tutorial](https://github.com/HuXn-WebDev/TypeScript-Complete-Course)
+- [Tutorial](https://github.com/John-WebDev/TypeScript-Complete-Course)
 
 #### This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
 
