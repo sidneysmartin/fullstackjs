@@ -1,4 +1,5 @@
 // Generic function to get a random key-value pair from an object
+
 function getRandomKeyValuePair<T>(obj: { [key: string]: T }): {
   key: string;
   value: T;
@@ -59,3 +60,4 @@ const redFruits = filterArray<Fruit>(
   (fruit) => fruit.color === "Red"
 );
 console.log(redFruits); // Outputs: [{ name: 'Apple', color: 'Red' }, { name: 'Cherry', color: 'Red' }]
+// ------------------------------------------------
